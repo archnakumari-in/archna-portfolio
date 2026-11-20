@@ -1,0 +1,13 @@
+target/
+.idea/
+.classpath
+.project
+.settings/
+*.log
+.env
+.env.*
+!.env.example
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/*.xlsx
